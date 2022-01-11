@@ -3,7 +3,7 @@
     "name": "cNETA",
     "symbol": "$cNETA",
     "website": "https://www.anetabtc.io/",
-    "description": "Decentralized, On-chain BTC on Ergo and Cardano",
+    "description": "Cardano governance token for anetaBTC: Decentralized, On-chain BTC on Ergo and Cardano",
     "totalSupply": 1000000000,
     "amounts": [
         1,
